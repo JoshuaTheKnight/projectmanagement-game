@@ -1,0 +1,265 @@
+{
+  "Sheet1": [
+    {
+      "Question": "Your organisation is moving to an Agile way of work. Your project team are strongly opposed to using Agile as they have been burned using iterations, when executives used the team velocity to try and force the team to work faster instead of keeping a sustainable pace. What will you do next?",
+      "A": "Add extra resources to your team to deliver faster and avoid executives getting involved.",
+      "B": "Proceed with a predictive development approach, and deal with the consequences later.",
+      "C": "Ask your team to work with Agile, velocity and iterations despite their hesitations.",
+      "D": "Suggest the team uses flow-based scheduling, with a Kanban board for visual work.",
+      "Answer": "D",
+      "Reason": "Kanban is one of the largest parts of Agile approaches, aside from other major parts such as Lean, XP and Scrum. A flow-based scheduling approach does not use sprints, lifecycles or velocity but optimises deliveries based on resource capacity, and minimises waste such as context-switching and hand- offs."
+    },
+    {
+      "Question": "There are certain core practices that are common amongst all the frameworks, and used within any team that calls themselves Agile. below is NOT a core Agile practice?",
+      "A": "Team Iteration Planning",
+      "B": "Collaborative User Story Creation between the business, custom and testers",
+      "C": "Demonstrations and Reviews of the features developed",
+      "D": "Autocratic Leadership, to ensure the work gets done",
+      "Answer": "D",
+      "Reason": "The preferred style of leadership in an Agile team is Servant Leadership. Autocratic leadership typically is a one person affair, while servant leadership builds psychological safety for the whole team to engage and contribute. All other items listed are Agile core practices."
+    },
+    {
+      "Question": "Agile has certain core practices that are used within any team working in an Agile way. Which of the following is NOT a core practice of Agile?",
+      "A": "The whole team approach, where any person needed is brought into the project team.",
+      "B": "Early and frequent feedback, to ensure a common understanding of the product.",
+      "C": "Daily stand-ups, to report on progress and raise blockers.",
+      "D": "Reporting to executives, to ensure they are happy with your project.",
+      "Answer": "D",
+      "Reason": "While reporting to executives has its place when running a project, in Agile it would rather be done by including them in other Agile core practices, such as demonstrations or reviews of the product, showing the product burndown chart in the team area, and the backlog of work. All other items are Agile core practices."
+    },
+    {
+      "Question": "You are working on a project as an Agile project manager. You look at the product backlog and ensure several features, or minimum viable products (MVPs) can be scheduled for delivery throughout the duration of the project. Why is this a good idea?",
+      "A": "To show executives that progress is being made by the development team",
+      "B": "To keep the project duration short",
+      "C": "To enable users to test the product for quality, and give feedback ",
+      "D": "To enable the business to get value quickly, as features are delivered",
+      "Answer": "D",
+      "Reason": "Minimum Viable Products are usable features in their own right that are delivered incrementally. This allows for business value to be gained more quickly, while gathering feedback on the use of these features."
+    },
+    {
+      "Question": "You are running an Agile project and meet with the team for the next sprint planning meeting. What will you do next?",
+      "A": "Negotiate the scope and costs of the project with the project sponsor.",
+      "B": "Walk through three questions with the team-what did I do yesterday? what will I do today? Is anything blocking me?",
+      "C": "The dev team demonstrates the working feature to the product owner, who marks it as complete.",
+      "D": "The product owner shares the updated backlog, and the team discusses it to ensure a shared understanding.",
+      "Answer": "D",
+      "Reason": "The product owner should share the updated backlog items and ensure the entire team has a good understanding of how to move forward."
+    },
+    {
+      "Question": "What is the primary goal of Agile project management?,",
+      "A": "Maximizing documentation",
+      "B": "Following a strict plan",
+      "C": "Delivering valuable software incrementally",
+      "D": "Ignoring customer feedback",
+      "Answer": "C",
+      "Reason": "Agile focuses on delivering value incrementally and responding to customer feedback."
+    },
+    {
+      "Question": "What is a Scrum Master responsible for?",
+      "A": "Micro-Managing the team",
+      "B": "Shielding the team from external interruptions",
+      "C": "Dictating tasks to team members",
+      "D": "Ignoring team inpediments",
+      "Answer": "B",
+      "Reason": "Scrum Masters protect the team from external distractions to maintain focus."
+    },
+    {
+      "Question": "What does WIP stand for in Kanban",
+      "A": "Work in Progress",
+      "B": "Weekly Improvement Plan",
+      "C": "Workflow Integration Process",
+      "D": "Work Iteration Point",
+      "Answer": "A",
+      "Reason": "WIP limit refers to the maximum work items allowed in progress at a time."
+    },
+    {
+      "Question": "What is a User Story in Agile?",
+      "A": "A detailed project plan",
+      "B": "A high-level project overview",
+      "C": "A short, simple description of a feature from an end user perspective,",
+      "D": "A complex technical document,",
+      "Answer": "C",
+      "Reason": "User Stories describe features from the user's perspective in a simple format."
+    },
+    {
+      "Question": "How often does the Scrum team hold a Sprint Review?",
+      "A": "Daily",
+      "B": "Weekly",
+      "C": "Monthly",
+      "D": "At the end of each sprint",
+      "Answer": "D",
+      "Reason": "The Sprint Review is held at the end of each sprint to inspect the increment and adapt the product backlog."
+    },
+    {
+      "Question": "What is the purpose of a Retrospective in Agile?",
+      "A": "To Plan the Next Sprint",
+      "B": "To inspect and adapt the team process",
+      "C": "To review the budget",
+      "D": "To assign the blame",
+      "Answer": "B",
+      "Reason": "Retrospectives focus on inspecting and adapting the team's process for continuous improvement."
+    },
+    {
+      "Question": "What is the recommended size for a Scrum Development Team?",
+      "A": "No limit",
+      "B": "Five to Nine",
+      "C": "Ten to Fifteen",
+      "D": "20+",
+      "Answer": "B",
+      "Reason": "Scrum recommends a Development Team size of 5-9 members for better collaboration and communication"
+    },
+    {
+      "Question": "What is the main advantage of using burn-down charts in Agile?",
+      "A": "To track team members' daily work",
+      "B": "To monitor project risks",
+      "C": "To visualize progress towards completing the sprint work",
+      "D": "To predict future project issues",
+      "Answer": "C",
+      "Reason": "Burn-down charts help visualize and track progress towards completing the planned work in a sprint."
+    },
+    {
+      "Question": "What is the main purpose of a Product Backlog?",
+      "A": "To store all ideas and requirements for the product",
+      "B": "To assign tasks to team members",
+      "C": "To track daily progress of the team",
+      "D": "To define the sprint goal",
+      "Answer": "A",
+      "Reason": "The Product Backlog is a dynamic list that contains all ideas and requirements for the product."
+    },
+    {
+      "Question": "In Agile, what does the term \"Velocity\" refer to?,",
+      "A": "The speed of the team's daily tasks",
+      "B": "The capacity of the team in a sprint",
+      "C": "The time it takes to complete a project",
+      "D": "The number of story points completed in a sprint",
+      "Answer": "B",
+      "Reason": "Velocity measures the team's capacity in story points completed during a sprint."
+    },
+    {
+      "Question": "What is a common practice in Extreme Programming (XP)?,",
+      "A": "Working in large batches",
+      "B": "Infrequent communication with customers",
+      "C": "Frequent pair programming",
+      "D": ",Individuals working in isolation",
+      "Answer": "C",
+      "Reason": "XP encourages frequent pair programming as a collaborative development practice."
+    },
+    {
+      "Question": "How does Agile handle changes in requirements?",
+      "A": "Changes are not allowed once the project starts",
+      "B": "Changes are discouraged but can be accepted with approval",
+      "C": "Embraces changes in requirements throughout the project",
+      "D": "Changes are only allowed in the planning phase",
+      "Answer": "C",
+      "Reason": "Agile embraces changes in requirements throughout the project to adapt to customer needs."
+    },
+    {
+      "Question": "What is the purpose of the Definition of Done in Scrum?,",
+      "A": "To define the team's daily tasks",
+      "B": "To track team progress in a sprint",
+      "C": "To set the standard for when work is complete",
+      "D": "To assign responsibilities to team members",
+      "Answer": "C",
+      "Reason": "The Definition of Done sets the standard for when a product increment is considered complete."
+    },
+    {
+      "Question": "In Scrum, who is responsible for removing impediments?",
+      "A": "Dev Team",
+      "B": "Team Product Owner",
+      "C": "Scrum Master",
+      "D": "Project Manager",
+      "Answer": "C",
+      "Reason": "The Scrum Master is responsible for removing impediments to the Development Team's progress."
+    },
+    {
+      "Question": "What is the purpose of a Sprint Goal in Scrum?,",
+      "A": "To list all tasks for the sprint",
+      "B": "To provide a high-level objective for the sprint",
+      "C": "To track team progress",
+      "D": "To assign priorities to user stories",
+      "Answer": "B",
+      "Reason": "A Sprint Goal provides a high-level objective that the Development Team works towards during the sprint."
+    },
+    {
+      "Question": "What is the primary focus of Lean software development",
+      "A": "Maximizing documentation",
+      "B": "Minimizing waste and optimizing efficiency,",
+      "C": "Following a strict plan",
+      "D": "Ignoring customer feedback",
+      "Answer": "B",
+      "Reason": "Lean software development focuses on minimizing waste and optimizing efficiency in the development process."
+    },
+    {
+      "Question": "What is the significance of the Daily Scrum",
+      "A": "To discuss long-term project strategy",
+      "B": "To inspect progress towards the sprint goal and adapt the plan",
+      "C": "To review the budget",
+      "D": "To assign tasks for the day,",
+      "Answer": "B",
+      "Reason": "The Daily Scrum is for inspecting progress and adapting the plan within the current sprint."
+    },
+    {
+      "Question": "How does Agile promote collaboration within a team?,",
+      "A": "By discouraging communication among team members",
+      "B": "By having strict hierarchies and roles",
+      "C": "By fostering open communication",
+      "D": ",By limiting interaction between team members",
+      "Answer": "C",
+      "Reason": "Agile promotes collaboration by fostering open communication and close collaboration within the team."
+    },
+    {
+      "Question": "In Scrum, what is the purpose of the Sprint Backlog?,",
+      "A": "To assign tasks for the day",
+      "B": "To track team progress in a sprint",
+      "C": "To define the product backlog",
+      "D": "To list all user stories for the sprint",
+      "Answer": "A",
+      "Reason": ",The Sprint Backlog is for assigning tasks for the current sprint."
+    },
+    {
+      "Question": "What does the term \"Definition of Ready\" represent in Scrum?",
+      "A": "The team's daily tasks",
+      "B": "The standard for when a user story is ready to be pulled into a sprint",
+      "C": "The team's retrospective review",
+      "D": "The team's sprint goal",
+      "Answer": "B",
+      "Reason": "The Definition of Ready sets the standard for when a user story is ready to be pulled into a sprint."
+    },
+    {
+      "Question": "How does Agile promote customer collaboration?,",
+      "A": "By limiting customer involvement",
+      "B": "By encouraging customer feedback throughout the project",
+      "C": "By assigning a dedicated customer team",
+      "D": "By keeping customers isolated from the team",
+      "Answer": "B",
+      "Reason": "Agile promotes customer collaboration by encouraging feedback and involvement throughout the project."
+    },
+    {
+      "Question": "What is the primary focus of the Scrum of Scrums meeting?",
+      "A": "To discuss individual team member's performance",
+      "B": "To address technical debt",
+      "C": "To inspect progress and dependencies across multiple teams",
+      "D": "To review the project budget",
+      "Answer": "C",
+      "Reason": "The Scrum of Scrums meeting is for inspecting progress and dependencies across multiple Scrum teams."
+    },
+    {
+      "Question": "How does Agile prioritize features in the product backlog?",
+      "A": "Randomly selected order",
+      "B": "By customer priorities and value",
+      "C": "Alphabetical order",
+      "D": "By team member preferences",
+      "Answer": "B",
+      "Reason": "Agile prioritizes features in the product backlog based on customer priorities and the value each feature adds to the product."
+    },
+    {
+      "Question": "How does Agile respond to changes in customer requirements?",
+      "A": ",By avoiding changes after the project starts",
+      "B": "By strictly following the initial project plan",
+      "C": "By welcoming and adapting to changes throughout the project",
+      "D": "By ignoring customer requirements",
+      "Answer": "C",
+      "Reason": "Agile welcomes and adapts to changes in customer requirements throughout the project."
+    }
+  ]
+}

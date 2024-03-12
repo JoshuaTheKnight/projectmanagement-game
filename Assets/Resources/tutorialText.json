@@ -1,0 +1,32 @@
+{
+  "Tutorial": [
+    {
+      "Page": 1,
+      "Content": "Welcome to Project Management. What? You thought you were going to get formal training? We didn't even have the funds to hire a certified project manager. So read this quick start guide (or press exit if you don't want to, we don't care as long as you don't ruin the company)"
+    },
+    {
+      "Page": 2,
+      "Content": "How to Start: Your work takes place entirely in your office. You are free to explore outside of it, admire your workers, and chill in the break room (Not for too long... We are always watching)."
+    },
+    {
+      "Page": 3,
+      "Content": "Your goal is to make sure our project managment resources do not reach zero. In your office you will see a TV that displays all our resources, a whiteboard that will launch scenarios and will alter your resources, and a computer that will allow you to take a test that may grant you a resouce bonus"
+    },
+    {
+      "Page": 4,
+      "Content": "Whiteboard: interacting with the whiteboard will initiate your scenarios for the day. These are simple yes/no scenarios that yield certain consequences that will impact your resources, so choose wisely!"
+    },
+    {
+      "Page": 5,
+      "Content": "Computer: interacting with the computer will initate a quiz that will yield a stat boost if you answer the question correctly. Answering the question wrong has no consequences"
+    },
+    {
+      "Page": 6,
+      "Content": "Once you complete your scenarios and quiz for the day, you are done with your shift and are ready to go home. Interact with the door outside of your office to start a new day"
+    },
+    {
+      "Page": 7,
+      "Content": "And that concludes your training. Work hard and we might possibly pay you the average salary of a Project Manager, but don't count on it too much"
+    }
+  ]
+}

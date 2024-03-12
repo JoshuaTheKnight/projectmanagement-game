@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="GameOver" style="flex-grow: 1; height: auto; background-color: rgba(106, 154, 202, 0); -unity-background-scale-mode: stretch-to-fill; scale: 1 1; transform-origin: top; align-items: center; flex-wrap: wrap; align-self: center; background-image: url(&apos;project://database/Assets/resource_default/btn_a_emerald.png?fileID=2800000&amp;guid=e87e973aa97e2cf41885259822725eb5&amp;type=3#btn_a_emerald&apos;); max-width: 90%; max-height: 100%; min-width: 90%; min-height: 0;">
+            <ui:Label tabindex="-1" text="Game Over" parse-escape-sequences="true" display-tooltip-when-elided="true" name="GameOverText" style="align-self: center; font-size: 35px; flex-wrap: wrap; white-space: normal; padding-top: 30px; padding-right: 30px; padding-bottom: 30px; padding-left: 30px;" />
+            <ui:Button text="Start New Game" parse-escape-sequences="true" display-tooltip-when-elided="true" name="GameOverButton" style="scale: 2 2; translate: 0 500%; background-image: url(&apos;project://database/Assets/resource_default/innerbox_a_btn.png?fileID=2800000&amp;guid=4dc79b73247092e4ab1b277f39e3f809&amp;type=3#innerbox_a_btn&apos;); background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); width: 20%; height: 10%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
